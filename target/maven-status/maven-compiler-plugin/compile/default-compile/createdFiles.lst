@@ -1,0 +1,16 @@
+logic/Patient_.class
+logic/Person.class
+logic/AppUser.class
+logic/Schedule.class
+logic/Appointment.class
+logic/Dentist_.class
+logic/AppUser_.class
+logic/Secretary.class
+logic/Appointment_.class
+logic/Schedule_.class
+logic/Dentist.class
+logic/Person_.class
+logic/Patient.class
+logic/KidGuardian_.class
+logic/KidGuardian.class
+logic/Secretary_.class
